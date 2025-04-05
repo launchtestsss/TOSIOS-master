@@ -186,7 +186,7 @@ export default class Home extends Component<IProps, IState> {
                     <title>{`${Constants.APP_TITLE} - Home`}</title>
                     <meta
                         name="description"
-                        content="BSC Royale is a fast-paced multiplayer shooter built on Binance Smart Chain, where every shot counts, every kill earns, and only the strongest survive."
+                        content="Classic PvP action in your browser. No rules, just skill."
                     />
                 </Helmet>
 
@@ -199,10 +199,10 @@ export default class Home extends Component<IProps, IState> {
                         maxWidth: '100%',
                     }}
                 >
-                    <img alt="TOSIOS" src={titleImage} />
+                    <img alt="Royale" src={titleImage} />
                     <Space size="xs" />
                     <Text style={{ color: 'white', fontSize: 13 }}>
-                        BSC Royale is a fast-paced multiplayer shooter built on Binance Smart Chain, where every shot counts, every kill earns, and only the strongest survive.
+                        Classic PvP action in your browser. No rules, just skill.
                     </Text>
                     <Space size="xxs" />
                 </View>
