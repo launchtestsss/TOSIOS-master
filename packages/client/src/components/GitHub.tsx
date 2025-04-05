@@ -7,7 +7,7 @@ import { Text } from './Text';
 const URL = 'https://x.com/';
 
 const GITHUB: CSSProperties = {
-    color: 'white',
+    color: 'black',
     fontSize: 14,
 };
 

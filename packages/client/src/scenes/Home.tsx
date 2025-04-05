@@ -186,7 +186,7 @@ export default class Home extends Component<IProps, IState> {
                     <title>{`${Constants.APP_TITLE} - Home`}</title>
                     <meta
                         name="description"
-                        content="Pick a name and start blasting."
+                        content="Shall we test your mettle in battle?"
                     />
                 </Helmet>
 
@@ -201,8 +201,8 @@ export default class Home extends Component<IProps, IState> {
                 >
                     <img alt="Royale" src={titleImage} />
                     <Space size="xs" />
-                    <Text style={{ color: 'white', fontSize: 13 }}>
-                        Pick a name and start blasting.
+                    <Text style={{ color: 'black', fontSize: 13 }}>
+                        Shall we test your mettle in battle?
                     </Text>
                     <Space size="xxs" />
                 </View>
