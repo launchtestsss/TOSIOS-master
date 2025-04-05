@@ -186,7 +186,7 @@ export default class Home extends Component<IProps, IState> {
                     <title>{`${Constants.APP_TITLE} - Home`}</title>
                     <meta
                         name="description"
-                        content="The Open-Source IO Shooter is an open-source multiplayer game in the browser meant to be hostable, modifiable, and playable by anyone."
+                        content="BSC Royale is a fast-paced multiplayer shooter built on Binance Smart Chain, where every shot counts, every kill earns, and only the strongest survive."
                     />
                 </Helmet>
 
@@ -202,8 +202,7 @@ export default class Home extends Component<IProps, IState> {
                     <img alt="TOSIOS" src={titleImage} />
                     <Space size="xs" />
                     <Text style={{ color: 'white', fontSize: 13 }}>
-                        An open-source multiplayer game in the browser meant to be hostable, modifiable, and playable by
-                        anyone.
+                        BSC Royale is a fast-paced multiplayer shooter built on Binance Smart Chain, where every shot counts, every kill earns, and only the strongest survive.
                     </Text>
                     <Space size="xxs" />
                 </View>

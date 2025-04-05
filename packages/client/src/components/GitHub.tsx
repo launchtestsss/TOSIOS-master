@@ -17,7 +17,7 @@ export function GitHub(): React.ReactElement {
             <View flex center style={GITHUB}>
                 <GitHubIcon />
                 <Inline size="xxs" />
-                <Text>Our Twitter</Text>
+                <Text>Twitter</Text>
             </View>
         </a>
     );
