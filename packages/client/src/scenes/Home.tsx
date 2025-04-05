@@ -186,7 +186,7 @@ export default class Home extends Component<IProps, IState> {
                     <title>{`${Constants.APP_TITLE} - Home`}</title>
                     <meta
                         name="description"
-                        content="Classic PvP action in your browser. No rules, just skill."
+                        content="Pick a name and start blasting."
                     />
                 </Helmet>
 
@@ -202,7 +202,7 @@ export default class Home extends Component<IProps, IState> {
                     <img alt="Royale" src={titleImage} />
                     <Space size="xs" />
                     <Text style={{ color: 'white', fontSize: 13 }}>
-                        Classic PvP action in your browser. No rules, just skill.
+                        Pick a name and start blasting.
                     </Text>
                     <Space size="xxs" />
                 </View>
