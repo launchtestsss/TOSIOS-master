@@ -4,7 +4,7 @@ import { GitHubIcon } from '../icons';
 import { Inline, View } from './';
 import { Text } from './Text';
 
-const URL = 'https://x.com/';
+const URL = 'https://x.com/BSCRoyale';
 
 const GITHUB: CSSProperties = {
     color: 'black',
