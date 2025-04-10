@@ -183,7 +183,7 @@ export default class Home extends Component<IProps, IState> {
                 }}
             >
                 <Helmet>
-                    <title>{`${Constants.APP_TITLE} - Home`}</title>
+                    <title>{`BSC Royale - Portal`}</title>
                     <meta
                         name="description"
                         content="Shall we test your mettle in battle?"
