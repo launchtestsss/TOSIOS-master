@@ -4,7 +4,7 @@ const explosion = require('./explosion.ogg');
 const fire = require('./fire.ogg');
 const footstep = require('./footstep.ogg');
 
-Howler.volume(1.0);
+Howler.volume(0.5);
 
 const ExplosionSound = new Howl({
     src: [explosion],
