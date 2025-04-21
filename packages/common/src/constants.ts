@@ -1,4 +1,4 @@
-export const APP_TITLE = 'BSCRoyale';
+export const APP_TITLE = 'Glitchborne';
 
 // General
 export const WS_PORT = 3001;
