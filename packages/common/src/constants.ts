@@ -33,7 +33,7 @@ export const PLAYER_WEAPON_SIZE = 12; // The bigger, the further away a bullet w
 export const PLAYER_HEARING_DISTANCE = 256;
 
 // Monster
-export const MONSTERS_COUNT = 3;
+export const MONSTERS_COUNT = 0;
 export const MONSTER_SIZE = 32;
 export const MONSTER_SPEED_PATROL = 0.75;
 export const MONSTER_SPEED_CHASE = 1.25;
