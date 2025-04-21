@@ -183,7 +183,7 @@ export default class Home extends Component<IProps, IState> {
                 }}
             >
                 <Helmet>
-                    <title>{`BSC Royale - Portal`}</title>
+                    <title>{`Glitchborne - Portal`}</title>
                     <meta
                         name="description"
                         content="Shall we test your mettle in battle?"
@@ -199,9 +199,9 @@ export default class Home extends Component<IProps, IState> {
                         maxWidth: '100%',
                     }}
                 >
-                    <img alt="Royale" src={titleImage} />
+                    <img alt="Glitch" src={titleImage} />
                     <Space size="xs" />
-                    <Text style={{ color: 'black', fontSize: 13 }}>
+                    <Text style={{ color: 'white', fontSize: 13 }}>
                         Shall we test your mettle in battle?
                     </Text>
                     <Space size="xxs" />

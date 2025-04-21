@@ -4,10 +4,10 @@ import { GitHubIcon } from '../icons';
 import { Inline, View } from './';
 import { Text } from './Text';
 
-const URL = 'https://x.com/BSCRoyale';
+const URL = 'https://x.com/Glitchborne_sol';
 
 const GITHUB: CSSProperties = {
-    color: 'black',
+    color: 'white',
     fontSize: 14,
 };
 
